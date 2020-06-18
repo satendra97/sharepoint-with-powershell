@@ -1,2 +1,2 @@
 # sharepoint-with-powershell
-These are some of permissions code 
+The codes are for getting users,groups their permissions, details from the sharepoint using powershell and exporting it to  a csv file. 
